@@ -1,0 +1,17 @@
+{
+  "name": "cara_shop",
+  "home": "https://syedaamnarafi.github.io/cara-shop/",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "vite": "^6.0.1"
+  }
+}
