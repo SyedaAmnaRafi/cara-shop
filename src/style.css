@@ -3,9 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-body{
-  background-color: green;
-}
+
 :root {
   font-family: "Urbanist", sans-serif;
   line-height: 1.5;
@@ -38,7 +36,7 @@ body {
   margin: 0 auto;
   padding: 0 32px;
   min-width: 320px;
-  background-color: var(--backgroundColor);
+  background-color:green;
 }
 
 h1,
